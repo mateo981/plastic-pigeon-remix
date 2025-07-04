@@ -1,0 +1,14 @@
+{
+  "Custer America": {
+    "bpm": 90,
+    "instrument": "Guitar",
+    "version": "No vocals",
+    "notes": "Acoustic version, mellow tempo"
+  },
+  "MPness": {
+    "bpm": 82,
+    "instrument": "Piano",
+    "version": "Ambient",
+    "notes": "Light background instrumental"
+  }
+}
