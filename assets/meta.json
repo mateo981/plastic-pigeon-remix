@@ -10,5 +10,17 @@
     "instrument": "Piano",
     "version": "Ambient",
     "notes": "Light background instrumental"
+  },
+  "Surely Leave": {
+    "bpm": 88,
+    "instrument": "Synth & Bass",
+    "version": "Full mix",
+    "notes": "Heavy vibe, lo-fi texture"
+  },
+  "Been Awhile": {
+    "bpm": 95,
+    "instrument": "Guitar & Drums",
+    "version": "Vocal",
+    "notes": "Emotional lyrics with live feel"
   }
 }
